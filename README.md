@@ -1,5 +1,7 @@
 # clipboard-sync-lite
 
+[中文](README.zh.md) | English
+
 A utility to sync X11 clipboard to Wayland.
 
 ## Purpose

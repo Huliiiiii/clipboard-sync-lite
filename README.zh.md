@@ -1,5 +1,7 @@
 # clipboard-sync-lite
 
+中文 | [English](README.md)
+
 一个同步 X11 剪贴板到 Wayland小工具。
 
 ## 用途
